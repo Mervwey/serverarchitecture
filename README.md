@@ -11,3 +11,5 @@ Volg deze stappen om het project te installeren:
    git clone https://github.com/Merwvey/serverarchitecture.git
 
 ### Contactgegevens
+Mail: Merveakakoc@hotmail.com   
+Tel: +32 470 69 09 82
