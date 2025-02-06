@@ -1,10 +1,11 @@
-# serverarchitecture
-description
+# ServerArchitecture
 
-Titel: # serverarchitecture
-Beschrijving: description opdracht
-Installatie-instructies:
-Gebruiksinstructies: download het
-Bijdragen: /
-Licentie: /
-Contactgegevens: Merveakakoc@hotmail.com // +32 470 69 09 82 (Whatsap)
+## Beschrijving
+Dit project gaat over serverarchitectuur en bevat informatie over de structuur en werking van servers.  
+
+## Installatie-instructies
+Volg deze stappen om het project te installeren:  
+
+1. **Download** het project:  
+   ```bash
+   git clone https://github.com/Merwvey/serverarchitecture.git
