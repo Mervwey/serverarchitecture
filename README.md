@@ -9,3 +9,5 @@ Volg deze stappen om het project te installeren:
 1. **Download** het project:  
    ```bash
    git clone https://github.com/Merwvey/serverarchitecture.git
+
+### Contactgegevens
